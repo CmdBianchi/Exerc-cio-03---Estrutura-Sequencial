@@ -16,7 +16,7 @@ namespace Exercício_03____Estrutura_Sequencial
         /////////////////////////////////////////////////////////////////////////////////////////////      
         static void Msg() {
             Console.WriteLine("Diferença do produto de A e B pelo produto de C e D ");
-        }
+        } 
 
 
 
