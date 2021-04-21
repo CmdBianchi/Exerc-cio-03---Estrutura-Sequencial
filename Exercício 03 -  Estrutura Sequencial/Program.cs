@@ -1,0 +1,28 @@
+﻿using System;
+
+namespace Exercício_03____Estrutura_Sequencial
+{
+    class Program
+    {
+        /// -------> START / MAIN 
+        /////////////////////////////////////////////////////////////////////////////////////////////
+        static void Main(string[] args){
+            Msg();
+
+
+        }
+
+        /// -------> FUNCTIONS
+        /////////////////////////////////////////////////////////////////////////////////////////////      
+        static void Msg() {
+            Console.WriteLine("Diferença do produto de A e B pelo produto de C e D ");
+        }
+
+
+
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////
+        /// -------> END
+    }
+}
